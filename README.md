@@ -1,6 +1,6 @@
 [![Banner](https://raw.githubusercontent.com/hall5714/tangular/master/docs/images/tangular.png)](https://github.com/hall5714/tangular)
 
-Tangular is a set of native time and date directives and services for AngularJS. The long-term goal of Tangular is a replacement for [Moment.js](http://momentjs.com/), particularly the timeago and calendar time. Tangular is still in its infancy, so use with caution.
+Tangular is a set of native time and date directives and services for AngularJS, *with no external dependencies*. The long-term goal of Tangular is a replacement for [Moment.js](http://momentjs.com/), particularly the timeago and calendar time. Tangular is still in its infancy, so use with caution.
 
 ## Getting Started
 
@@ -64,8 +64,7 @@ Development:
 
 ## Thanks
 
-A special thanks to Olivier Louvignes, the developer for [AngularStrap](https://github.com/mgcrea/angular-strap/), much of the "setup" for this project was taken from his work, particularly the format of the tests, as well as setup/configuration files. Additionally, much of the work for this project 
-was due to the amazing work by the developers of [Moment.js](http://momentjs.com/).
+A special thanks to [Olivier Louvignes](http://olouv.com/), the core developer of [AngularStrap](https://github.com/mgcrea/angular-strap/). The majority of the Grunt and Testing setup for this project was taken from AngularStrap. Additionally, a thanks to [Moment.js](http://momentjs.com) the library that generated the idea for Tangular.
 
 ## Author
 
