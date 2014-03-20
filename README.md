@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hall5714/tangular.svg?branch=master)](https://travis-ci.org/hall5714/tangular)
+
 [![Banner](https://raw.githubusercontent.com/hall5714/tangular/master/docs/images/tangular.png)](https://github.com/hall5714/tangular)
 
 Tangular is a set of native time and date directives and services for AngularJS, *with no external dependencies*. The long-term goal of Tangular is a replacement for [Moment.js](http://momentjs.com/), particularly the timeago and calendar time. Tangular is still in its infancy, so use with caution.
