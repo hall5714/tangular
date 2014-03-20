@@ -6,7 +6,7 @@ Tangular is a set of native time and date directives and services for AngularJS.
 
 The current implementation of Tangular includes a relative time directive and service. Often called timeago, this directive converts dates and times relative to the current time (or a provided time), such as "just now", "a few minutes ago", etc. 
 
-# Timeago
+### Timeago
 
 HTML:
 ```
@@ -20,7 +20,7 @@ Javascript:
    ...
 ```
 
-# Relative Time
+### Relative Time
 
 HTML:
 ```   
