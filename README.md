@@ -1,3 +1,5 @@
+[![Banner](https://raw.githubusercontent.com/hall5714/tangular/master/docs/images/tangular.png)](https://github.com/hall5714/tangular)
+
 Tangular is a set of native time and date directives and services for AngularJS. The long-term goal of Tangular is a replacement for [Moment.js](http://momentjs.com/), particularly the timeago and calendar time. Tangular is still in its infancy, so use with caution.
 
 ## Getting Started
@@ -7,27 +9,31 @@ The current implementation of Tangular includes a relative time directive and se
 # Timeago
 
 HTML:
-
-   <span tng-relative-time="date"></span>
-
+```
+   <span tng-relative-time="date"></span>`
+```
 
 Javascript:
-
+```
    ...
    scope.date = new Date();
    ...
+```
 
 # Relative Time
 
 HTML:
-   
+```   
    <span tng-relative-time="date" tng-between="between"></span>
+```
 
 Javascript:
-
+```
 	...
 	scope.date = new Date();
 	scope.between = scope.date.setMinutes(scope.date.getMinutes() - 5)
+	...
+```
 
 By default, the suffix/prefix (eg. "ago" or "from now") will be removed for relative time and included for timeago. The default settings can be changed by setting a `tng-suffix="boolean"` property.
 
