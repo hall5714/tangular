@@ -1,0 +1,49 @@
+{
+  "name": "tangular",
+  "description": "Tangular - Time/Date directives and services for AngularJS",
+  "version": "0.1.0",
+  "keywords": [
+    "angular",
+    "moment",
+    "timeago"
+  ],
+  "homepage": "http://hall5714.github.io/tangular",
+  "bugs": "https://github.com/hall5714/tangular/issues",
+  "author": {
+    "name": "Justin Hall",
+    "url": "https://github.com/hall5714"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hall5714/tangular.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "main": [
+    "dist/tangular.min.js"
+  ],
+  "ignore": [
+    "docs",
+    "test",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "angular": "~1.2.10"
+  },
+  "devDependencies": {
+    "angular-animate": "~1.2.10",
+    "angular-i18n": "~1.2.10",
+    "angular-mocks": "~1.2.10",
+    "angular-route": "~1.2.10",
+    "angular-sanitize": "~1.2.10",
+    "angular-scenario": "~1.2.10",
+    "fastclick": "~0.6.11",
+    "font-awesome": "~4.0.3",
+    "highlightjs": "~8.0.0",
+    "jquery": "~2.1.0",
+    "bootstrap": "~3.1.1"
+  }
+}
