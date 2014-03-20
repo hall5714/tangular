@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hall5714/tangular.svg?branch=master)](https://travis-ci.org/hall5714/tangular) [![Coverage Status](https://coveralls.io/repos/hall5714/tangular/badge.png)](https://coveralls.io/r/hall5714/tangular)
+[![Build Status](https://travis-ci.org/hall5714/tangular.svg?branch=master)](https://travis-ci.org/hall5714/tangular) [![Coverage Status](https://coveralls.io/repos/hall5714/tangular/badge.png)](https://coveralls.io/r/hall5714/tangular) [![Dependency Status](https://gemnasium.com/hall5714/tangular.svg)](https://gemnasium.com/hall5714/tangular)
 
 [![Banner](https://raw.githubusercontent.com/hall5714/tangular/master/docs/images/tangular.png)](https://github.com/hall5714/tangular)
 
